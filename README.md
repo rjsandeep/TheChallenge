@@ -1,4 +1,4 @@
-# The Challenge Game
-Deliver The Checkers Game project
+# The gamesforthebrain challenge Game test automation
+Deliver The Checkers Game project - checker
 
-Deliver The Black Jack Game project
+Deliver The Black Jack Game project - jack
